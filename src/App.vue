@@ -13,8 +13,6 @@ import HelloWorld from './components/HelloWorld.vue'
     <img class="inline-block h-12 w-13 rounded-full ring-2 ring-white" src="./assets/photo.jpg"><br><br>   
   </div>
 
-
-<h5>test</h5>
   <div class="bg-white shadow overflow-hidden sm:rounded-lg">
     <div class="border-t border-grey-200">
       <dl>
