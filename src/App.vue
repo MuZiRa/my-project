@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div class="bg-white shadow overflow-hidden sm:rounded-lg">
     <div class="border-t border-grey-200">
       <dl>
-        <div class="bg-green-800 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+        <div class="bg-green-200 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
           <dt class="text-sm font-medium text-gray-500">Fullname</dt>
           <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">Nur Rahmah Binti Brahim</dd>
         </div>
@@ -25,7 +25,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <dt class="text-sm font-medium text-gray-500">Student ID</dt>
           <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">20FTT1818</dd>
         </div>
-        <div class="bg-green-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+        <div class="bg-green-200 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
           <dt class="text-sm font-medium text-gray-500">Student Email</dt>
           <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">20FTT1818@student.pb.edu.bn</dd>
         </div>
